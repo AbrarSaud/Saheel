@@ -3,8 +3,15 @@ This project is part of the **Web Development Program Using Java and SpringBoot*
 
 
 ## Overview
-A comprehensive REST API for managing equestrian businesses, stables, and horse care operations. This system provides structured endpoints for:
+Saheel is a digital platform designed to bring together all equestrian enthusiasts in one place. It connects three main user groups:
 
+-Stable Owners: They can easily showcase their services such as horse boarding, training, and veterinary care. Each stable is managed by the owner and includes a full team of staff like trainers, veterinarians, and caretakers—all operating under the stable’s management.
+
+-Horse Owners: They can browse through available stables, compare them based on location, services, and pricing, and subscribe directly through the platform.
+
+-Customers (الخيالة والهواة): The platform helps turn casual horse lovers into skilled riders by offering professional courses delivered by stable owners and their expert teams.
+
+Saheel isn't just a management system—it’s a complete equestrian ecosystem built for everyone passionate about horses.
 -  **Stable Management** (staff, facilities, services)  
 -  **Horse Tracking** (ownership, health, memberships)  
 -  **Course Scheduling** (enrollments, payments, reviews)  
