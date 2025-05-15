@@ -116,9 +116,9 @@ Saheel isn't just a management system—it’s a complete equestrian ecosystem b
 
 | #  | Entity      | Endpoint                                      | Creator |
 |----|-------------|-----------------------------------------------|---------|
-| 39 | Membership  | `GET /get`                                    | Abrar      |
-| 40 | Membership  | `POST /request-membership/{stableId}`         | Abrar      |
-| 41 | Membership  | `PUT /renew-membership/{id}`                  | Abrar   |
+| 39 | Membership  | `GET /get`                                    | Abrar    |
+| 40 | Membership  | `POST /request-membership/{stableId}`         | Abrar - Ayman -Abeer      |
+| 41 | Membership  | `PUT /renew-membership/{id}`                  | Abrar - Ayman -Abeer   |
 | 42 | Membership  | `GET /get-expired-memberships`                | Abrar      |
 
 ### Payment Endpoints
