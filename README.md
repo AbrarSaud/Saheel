@@ -27,7 +27,32 @@ Saheel isn't just a management system—it’s a complete equestrian ecosystem b
 - Equestrian businesses  
 - Riding schools  
 - Horse boarding facilities  
-- Veterinary clinics with stable partnerships  
+- Veterinary clinics with stable partnerships
+
+  
+##  Technologies & Tools
+
+| Technology         | Purpose                                       |
+|--------------------|-----------------------------------------------|
+| `Java 17`          | Main programming language                     |
+| `Spring Boot`      | Backend framework                             |
+| `Spring Web`       | Build RESTful APIs                            |
+| `Spring Data JPA`  | Handle database operations                    |
+| `Spring Security`  | Login, roles, and authorization               |
+| `Spring Mail`      | Send email notifications                      |
+| `Spring Validation`| Validate user input                           |
+| `MySQL` / `PostgreSQL` | Relational databases                      |
+| `Lombok`           | Write clean Java code with fewer lines        |
+| `Twilio`           | Send WhatsApp & SMS messages                  |
+| `iText`            | Generate and export PDF documents             |
+| `Moyasar API`      | Process online payments securely              |
+| `AWS`              | Cloud deployment                              |
+| `JUnit`            | Unit testing framework                        |
+| `Postman`          | Test API endpoints                            |
+| `Figma`            | UI/UX design and wireframes  [link](https://www.figma.com/proto/vAsUysev9ftupCdJQ4dgtA/final-progct--%D8%B5%D9%87%D9%8A%D9%84-?page-id=0%3A1&node-id=1-4&p=f&viewport=516%2C220%2C0.31&t=aPlb9Qhfbu3Pncuq-1&scaling=contain&content-scaling=fixed&starting-point-node-id=1%3A4)                  |
+| `Maven`            | Build and manage dependencies                 |
+
+---
 
 ### Admin Endpoints
 
@@ -206,6 +231,6 @@ For questions or support:
 - **Email** ayman.f.alharbi@gmail.com
 - **Email** Aboor.1048@gmail.com
 ## LinkedIn
-- **Abrar Saud** [link](https://www.linkedin.com/in/abrar-saud/)
+- **Abrar Saud** [LinkedIn](https://www.linkedin.com/in/abrar-saud/)
 - **Ayman Alharbi** https://www.linkedin.com/in/ayman-alharbi1
 - **Abeer secondName** https://www.linkedin.com/in/abeer-alhawsawi-516b282b8
