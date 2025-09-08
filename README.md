@@ -17,24 +17,14 @@ Saheel isn't just a management system—it’s a complete equestrian ecosystem b
 -  **Course Scheduling** (enrollments, payments, reviews)  
 -  **Multi-role Access** (admins, stable owners, horse owners, customers)  
 
-## Key Features
- **Role-based workflows** for different user types  
- **End-to-end operations** from horse care to financials  
- **Review systems** for courses and stables  
- **Modern RESTful design** with JSON responses  
 
-## Ideal for
-- Equestrian businesses  
-- Riding schools  
-- Horse boarding facilities  
-- Veterinary clinics with stable partnerships
 
   
 ##  Technologies & Tools
 
 | Technology         | Purpose                                       |
 |--------------------|-----------------------------------------------|
-| `Java 17`          | Main programming language                     |
+| `Java   `          | Main programming language                     |
 | `Spring Boot`      | Backend framework                             |
 | `Spring Web`       | Build RESTful APIs                            |
 | `Spring Data JPA`  | Handle database operations                    |
@@ -49,8 +39,20 @@ Saheel isn't just a management system—it’s a complete equestrian ecosystem b
 | `AWS`              | Cloud deployment                              |
 | `JUnit`            | Unit testing framework                        |
 | `Postman`          | Test API endpoints                            |
-| `Figma`            | UI/UX design and wireframes  [link](https://www.figma.com/proto/vAsUysev9ftupCdJQ4dgtA/final-progct--%D8%B5%D9%87%D9%8A%D9%84-?page-id=0%3A1&node-id=1-4&p=f&viewport=516%2C220%2C0.31&t=aPlb9Qhfbu3Pncuq-1&scaling=contain&content-scaling=fixed&starting-point-node-id=1%3A4)                  |
+| `Figma`            | UI/UX design and wireframes                 |
 | `Maven`            | Build and manage dependencies                 |
+
+
+## Architecture Diagrams
+
+ ### Class Diagram
+ (https://github.com/user-attachments/files/22203101/Saheel.diagram-1.1.pdf)
+
+ ###  Use Case Diagram
+ (https://github.com/user-attachments/files/22203101/Saheel.diagram-1.1.pdf) 
+
+###  Figma Design
+ 🔗  [link](https://www.figma.com/proto/vAsUysev9ftupCdJQ4dgtA/final-progct--%D8%B5%D9%87%D9%8A%D9%84-?page-id=0%3A1&node-id=1-4&p=f&viewport=516%2C220%2C0.31&t=aPlb9Qhfbu3Pncuq-1&scaling=contain&content-scaling=fixed&starting-point-node-id=1%3A4)  
 
 ---
 
