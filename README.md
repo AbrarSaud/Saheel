@@ -1,8 +1,6 @@
 # Saheel (صَهيل) -  Management Platform
-This project is part of the **Web Development Program Using Java and SpringBoot** presented by **Tuwaiq Academy**.
 
 
-## Overview
 Saheel is a digital platform designed to bring together all equestrian enthusiasts in one place. It connects three main user groups:
 
 -Stable Owners: They can easily showcase their services such as horse boarding, training, and veterinary care. Each stable is managed by the owner and includes a full team of staff like trainers, veterinarians, and caretakers—all operating under the stable’s management.
